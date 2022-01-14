@@ -1,0 +1,202 @@
+.footer-main{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 80vh;
+    background-color: #222;
+    font-family: 'Source Sans Pro', sans-serif;
+    overflow: hidden;
+    position: relative;
+}
+.footer-main .heading{
+    background:#434343;
+    padding: 0 10px ;
+    margin-top: 10px;
+    width: max-content;
+    border-radius: 0px 10px 10px 0;
+    z-index: 1000;
+}
+.footer-main .heading span{
+    font-size: 2.2rem;
+    font-weight: 700px;
+    color: #fff;
+    padding: 0 0 0 6vw;
+}
+.copyright{
+    position: absolute;
+    width: 100%;
+    bottom: 10px;
+    text-align: center;
+}
+.footer-logo{
+    margin: 0;
+    margin-top: 5px;
+    position: relative;
+}
+.footer-main .section{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+}
+.section ul{
+    list-style-type: none;
+    font-size: 22px;
+    cursor: pointer;
+}
+.section .menu ul li {
+    font-size: 20px;
+    border-radius: 2px;
+    padding: 5px 5px 5px 10px;
+    width: 130px;
+}
+.section .menu ul li:hover {
+    transition: 0.2s;
+    background-color: rgb(29, 28, 28);
+}
+.section .menu ul li a{
+    text-decoration: none;
+    color: rgba(255, 255, 255);
+}
+.footer-social ul li{   
+    background-color: rgb(29, 28, 28);
+    margin-bottom: 5px;
+    width: 170px;
+    border-radius: 15px 2px 2px 15px;
+    position: relative;
+}
+.footer-social ul li:hover{
+    transition: 0.2s;
+    background-color: rgb(97, 96, 96);
+}
+.footer-social ul li span{
+    padding: 0px 15px 0 5px;
+    font-size: 20px;
+}
+.footer-social ul a i{
+    font-size: 1.7rem;
+    padding: 5px 5px 1px 12px;
+}
+.footer-social a{
+    text-decoration: none;
+}
+.footer-extra {
+    display: flex;
+    justify-content: space-around;
+}
+.contact-form {
+    background: #434343;
+    padding: 20px;
+    margin-top: 120px;
+    border-radius: 7px 7px 1px 1px;
+    text-align: center;
+    width:max-content;
+    box-shadow: rgba(255, 255, 255, 0.5) 0px 4px 12px;
+    z-index: 100000;
+}
+.contact-form .heading{
+    display: flex;
+    justify-content: space-between;
+}
+.contact-form span{
+    font-size: 1.5rem;
+    background:#222;
+    padding: 0 10px;
+    margin-top: -10px;
+    width: max-content;
+    border-radius: 0px 10px 10px 0;
+    position: relative;
+    left: 0;
+    margin: 0px 0 10px 0;
+}
+.contact-form .contact-logo{
+    padding-left: 15px;
+    padding-top: 3px;
+}
+input[type="email"]:focus,input[type="text"]:focus,textarea:focus{
+    box-shadow: 0 0 5px 0 #fff;
+}
+.contact-form  .email,.name,.message{
+    border-radius: 2px;
+    border: none;
+    outline: none;
+    padding: 5px 10px;
+    width: 430px;
+    background: #222;
+    margin-bottom: 15px;
+    color: rgba(255, 255, 255, 0.815);
+}
+.contact-form .submit,.cancel{
+    border-radius: 7px;
+    border: none;
+    outline: none;
+    padding: 5px 10px;
+    margin-right: 10px;
+    width: max-content;
+    background: #222;
+    color: rgba(255, 255, 255, 0.815);
+}
+.contact-form .cancel:hover{
+    transition: 0.2s;
+    box-shadow: 0 0 3px 0 #ff0000;
+    color: #ff0000;
+}
+.contact-form .submit:hover{
+    transition: 0.2s;
+    box-shadow: 0 0 3px 0 #00ff00;
+    color: #00ff00;
+}
+.contact-form-container{
+    background-color: #42424286;
+    backdrop-filter: blur(5px);
+    width:100vw;
+    height:100vh;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    display: none;
+    -webkit-user-select: none;/* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
+}
+
+
+@media only screen and (max-width: 900px) {
+    .footer-main .section{
+        display: block;
+        justify-content: space-around;
+    }
+    .section .menu{
+        margin-left: 0;
+    }
+    .footer-social{
+        margin: -32vw 0 20vw 40vw;
+    }
+    
+    .footer-social ul{
+        width: min-content;
+    }
+    .footer-main{
+        height: max-content;
+    }
+    .contact-form{
+        width: min-content;
+    }
+    .footer-extra{
+        display: grid;
+    }
+    .footer-logo{
+        text-align: center;
+        padding-bottom: 10vw;
+    }
+    .contact-form{
+        margin-top: 10vh;
+    }
+    .contact-form  .email,.name,.message{
+        width: max-content;
+    }
+    .footer-extra{
+        margin-top: -17vw;
+        padding:0 0 30vw 0;
+    }
+}

@@ -1,0 +1,49 @@
+.section2{
+    height: min-content;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    margin-top: 110vh;
+    font-family: 'Source Sans Pro', sans-serif;
+    overflow: hidden;
+    position: relative;
+    background: #434343;
+}
+.section2 .heading{
+    background: #222222;
+    padding: 0 10px ;
+    margin-top: 10px;
+    width: max-content;
+    border-radius: 0px 10px 10px 0;
+    z-index: 1000;
+}
+.section2 .heading span{
+    font-size: 2.2rem;
+    font-weight: 700px;
+    color: #fff;
+    padding: 0 0 0 6vw;
+}
+.skills{
+    width: 100%;
+    height: min-content;
+}
+.skill-container{
+    width: 100%;
+    height: min-content;
+    margin-top: 7vh;
+    padding-bottom: 10vw;
+}
+.skill-container .skill-card{
+    height: 430px;
+    width: 80vw;
+    border-radius: 10px;
+}
+.skill-card .circle-img{
+    width: 35%;
+}
+.skill-card img{
+    width: 70%;
+}
+.node{
+    color: #66a955;
+}

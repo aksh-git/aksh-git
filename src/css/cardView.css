@@ -1,0 +1,48 @@
+.cardView{
+    color: #fff;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 6px;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position-y: 0vh;
+    background-position-x: 0vw;
+    background-size: cover;
+    background: #434343;
+}
+.cardView img{
+    max-width: 100%;
+    border-radius: 6px 6px 0 0;
+}
+.cardView .card-title{
+    font-size: 2rem;
+    font-weight: 550;
+}
+.cardView .cardBody {
+    font-size: 19px;
+    margin-top: 7px;
+}
+.cardView .button{
+    margin: 10px 0;
+    background: #222222;
+    border: 1px solid #434343;
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 19px;
+    border-radius: 0 0 6px 6px;
+    float: right;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px #434343,
+    2px 2px 2px #222222;
+}
+.cardView .button a{
+    text-decoration: none;
+    color: #fff;
+}
+.cardView .footer{
+    width: 100%;
+    position: absolute;
+    bottom: 20px;
+    margin-left: 10px;
+}
