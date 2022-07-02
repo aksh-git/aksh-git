@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 👨‍💻 My portfolio : [site](https://aksh-web.netlify.app)
-- 📄 Know about my experiences : [site/about](https://aksh-web.netlify.app/about)
+- 👨‍💻 My Portfolio : [site](https://akash-web.netlify.app)
+- 📄 My Resume : [view resume](https://akash-web.netlify.app/resume)
 - 📫 Reach me via : [email](mailto:sharewithakashyadav@gmail.com?body=%0D%0A%0D%0A%0D%0A-got%20from%20github) 
 
 ### Social
@@ -12,7 +12,8 @@
 </p>
 
 ### Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aksh-git&show_icons=true&locale=en" alt="aksh-git" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aksh-git&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aksh-git's GitHub stats" />
+
 
 <!---
 aksh-git/aksh-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
