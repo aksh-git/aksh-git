@@ -7,8 +7,8 @@
 
 ### Social
 <p aligen="left">
-  <a target="_blank" rel="noreferrer" href="https://instagram.com/ig_akash369"><img src="https://instagram.com/favicon.ico"  width="40" height="40"/></a>
-  <a target="_blank" rel="noreferrer" href="https://instagram.com/akash_369_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  width="40" height="40" /></a>
+  <a target="_blank" rel="noreferrer" href="https://instagram.com/ig_akashydav"><img src="https://raw.githubusercontent.com/aksh-git/assets/main/socials/instagram.svg"  width="40" height="40"/></a>
+  <a target="_blank" rel="noreferrer" href="https://instagram.com/akashydav"><img src="https://raw.githubusercontent.com/aksh-git/assets/main/socials/twitter.svg"  width="40" height="40" /></a>
 </p>
 
 ### Github Stats
