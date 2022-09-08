@@ -8,7 +8,7 @@
 ### Social
 <p aligen="left">
   <a target="_blank" rel="noreferrer" href="https://instagram.com/ig_akashydav"><img src="https://raw.githubusercontent.com/aksh-git/assets/main/socials/instagram.svg"  width="40" height="40"/></a>
-  <a target="_blank" rel="noreferrer" href="https://instagram.com/akashydav"><img src="https://raw.githubusercontent.com/aksh-git/assets/main/socials/twitter.svg"  width="40" height="40" /></a>
+  <a target="_blank" rel="noreferrer" href="https://twitter.com/akashydav"><img src="https://raw.githubusercontent.com/aksh-git/assets/main/socials/twitter.svg"  width="40" height="40" /></a>
 </p>
 
 ### Github Stats
