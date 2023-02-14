@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 👨‍💻 My Portfolio : [site](https://akash-web.netlify.app)
-- 📄 My Resume : [view resume](https://akash-web.netlify.app/resume)
+- 👨‍💻 My Resume : [view resume](https://akash-web.netlify.app/resume)
 - 📫 Reach me via : [email](mailto:sharewithakashyadav@gmail.com?body=%0D%0A%0D%0A%0D%0A-got%20from%20github) 
 
-### Social
-<p aligen="left">
-  <a target="_blank" rel="noreferrer" href="https://instagram.com/ig_akashydav"><img src="https://raw.githubusercontent.com/aksh-git/assets/main/socials/instagram.svg"  width="30" height="30"/></a>
+## Social
+<p align="left">
   <a target="_blank" rel="noreferrer" href="https://twitter.com/akashydav"><img src="https://raw.githubusercontent.com/aksh-git/assets/main/socials/twitter.svg"  width="30" height="30" /></a>
 </p>
 
