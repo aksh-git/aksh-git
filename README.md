@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 👨‍💻 My Resume : [view resume](https://akash-web.netlify.app/resume)
+- 👨‍💻 My Resume : [view resume](https://akash-web.netlify.app#resume)
 - 📫 Reach me via : [email](mailto:sharewithakashyadav@gmail.com?body=%0D%0A%0D%0A%0D%0A-got%20from%20github) 
 
 ## Social
