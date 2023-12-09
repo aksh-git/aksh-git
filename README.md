@@ -1,20 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A Passionate Fullstack Developer From India</h3>
 
-- 👨‍💻 My Resume : [view resume](https://akash-web.netlify.app#resume)
-- 📫 Reach me via : [email](mailto:sharewithakashyadav@gmail.com?body=%0D%0A%0D%0A%0D%0A-got%20from%20github) 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ydevakash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ydevakash) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ydevakash) 
 
-## Social
-<p align="left">
-  <a target="_blank" rel="noreferrer" href="https://twitter.com/akashydav"><img src="https://raw.githubusercontent.com/aksh-git/assets/main/socials/twitter.svg"  width="30" height="30" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!---
-### Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aksh-git&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aksh-git's GitHub stats" />
-
-
-<!---
-aksh-git/aksh-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![](https://visitcount.itsvg.in/api?id=aksh-git&icon=0&color=0)](https://visitcount.itsvg.in)
