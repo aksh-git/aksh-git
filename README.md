@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Akash Yadav</h1>
+# Hello 👋, I'm Akash Yadav
 
 Creative Full Stack Developer with a love for Cybersecurity and DevOps, with a focus on backend development and background in concurrent programming, cryptography, and reverse engineering. Apart form this, I enjoy stargazing, searching for obscure music, and gardening as soon as i get some free time, i find it satisfying to see something bloom.. :)
 
