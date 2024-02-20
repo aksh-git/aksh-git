@@ -5,7 +5,7 @@ Creative Full Stack Developer with a love for Cybersecurity and DevOps, with a f
 ## ⚒️ Tech-Stack 
 - **Languages:** Go Lang, Java, Python, TypeScript
 - **Web technologies:** Proficient in most of the javascript frameworks and libraries.
-- **Backend:** Developing complex APIs and microservices, server provisining, microservice orchestration.
+- **Backend:** Developing complex APIs and microservices, server provisioning, microservice orchestration.
 - **Databases:** Relational and NOSQL databases.
 - **DevOps tools:** AWS, Docker, Kubernetes, Ngnix, Linux, CI/CD Pipelines.
 - **Version control:** Git, Github, GitLab
